@@ -7,3 +7,4 @@ export { Topbar } from "./topbar";
 export { Filters } from "./filters";
 export { FilterCheckbox } from "./filter-checkbox";
 export { RangeSlider } from "./range-slider";
+export { ProductsGroupList } from "./products-group-list";
