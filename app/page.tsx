@@ -38,7 +38,7 @@ export default function Home() {
                     ],
                   },
                   {
-                    id: 1,
+                    id: 2,
                     name: "Margarita",
                     imageUrl:
                       "https://media.dodostatic.net/image/r:584x584/11EE7D612FC7B7FCA5BE822752BEE1E5.avif",
@@ -49,7 +49,7 @@ export default function Home() {
                     ],
                   },
                   {
-                    id: 1,
+                    id: 3,
                     name: "Margarita",
                     imageUrl:
                       "https://media.dodostatic.net/image/r:584x584/11EE7D612FC7B7FCA5BE822752BEE1E5.avif",
@@ -60,7 +60,7 @@ export default function Home() {
                     ],
                   },
                   {
-                    id: 1,
+                    id: 4,
                     name: "Margarita",
                     imageUrl:
                       "https://media.dodostatic.net/image/r:584x584/11EE7D612FC7B7FCA5BE822752BEE1E5.avif",
@@ -71,7 +71,7 @@ export default function Home() {
                     ],
                   },
                   {
-                    id: 1,
+                    id: 5,
                     name: "Margarita",
                     imageUrl:
                       "https://media.dodostatic.net/image/r:584x584/11EE7D612FC7B7FCA5BE822752BEE1E5.avif",
@@ -89,7 +89,7 @@ export default function Home() {
                 title="Breakfast"
                 items={[
                   {
-                    id: 1,
+                    id: 10,
                     name: "Margarita",
                     imageUrl:
                       "https://media.dodostatic.net/image/r:584x584/11EF112C05B1B9C193648449783C1A82.avif",
@@ -100,7 +100,7 @@ export default function Home() {
                     ],
                   },
                   {
-                    id: 1,
+                    id: 11,
                     name: "Margarita",
                     imageUrl:
                       "https://media.dodostatic.net/image/r:584x584/11EF112C05B1B9C193648449783C1A82.avif",
@@ -111,7 +111,7 @@ export default function Home() {
                     ],
                   },
                   {
-                    id: 1,
+                    id: 12,
                     name: "Margarita",
                     imageUrl:
                       "https://media.dodostatic.net/image/r:584x584/11EF112C05B1B9C193648449783C1A82.avif",
@@ -122,7 +122,7 @@ export default function Home() {
                     ],
                   },
                   {
-                    id: 1,
+                    id: 13,
                     name: "Margarita",
                     imageUrl:
                       "https://media.dodostatic.net/image/r:584x584/11EF112C05B1B9C193648449783C1A82.avif",
